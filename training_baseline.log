@@ -598,3 +598,161 @@ INFO:root:Epoch: 199	Train Loss: 5.505080943601443e-08	Train Acc: 1.0	Test-Loss:
 INFO:root:Epoch: 200	Batch: 50	Avg-Loss: 0.0000
 INFO:root:Epoch: 200	Batch: 100	Avg-Loss: 0.0000
 INFO:root:Epoch: 200	Train Loss: 7.157738625699676e-05	Train Acc: 1.0	Test-Loss: 11.424261299931274	Test-acc: 0.5816
+INFO:root:Epoch: 1	Batch: 50	Avg-Loss: 2.5328
+INFO:root:Epoch: 1	Train Loss: 1.790010969181417	Train Acc: 0.2597623089983022	Test-Loss: 1.7129016944340296	Test-acc: 0.2857
+INFO:root:Epoch: 2	Batch: 50	Avg-Loss: 1.7337
+INFO:root:Epoch: 2	Train Loss: 1.6267283675221311	Train Acc: 0.39954725523486134	Test-Loss: 1.602708286168624	Test-acc: 0.4235
+INFO:root:Epoch: 3	Batch: 50	Avg-Loss: 1.5544
+INFO:root:Epoch: 3	Train Loss: 1.3599864207355734	Train Acc: 0.5076400679117148	Test-Loss: 1.341125918894398	Test-acc: 0.5204
+INFO:root:Epoch: 4	Batch: 50	Avg-Loss: 1.2242
+INFO:root:Epoch: 4	Train Loss: 1.0878205326025812	Train Acc: 0.6089417091114884	Test-Loss: 1.31012797477294	Test-acc: 0.5306
+INFO:root:Epoch: 5	Batch: 50	Avg-Loss: 0.9460
+INFO:root:Epoch: 5	Train Loss: 0.7423831289544508	Train Acc: 0.7481607243916242	Test-Loss: 1.3999690863550927	Test-acc: 0.5714
+INFO:root:Epoch: 6	Batch: 50	Avg-Loss: 0.7493
+INFO:root:Epoch: 6	Train Loss: 0.5173335077739666	Train Acc: 0.8268251273344652	Test-Loss: 1.44165622458166	Test-acc: 0.5153
+INFO:root:Epoch: 7	Batch: 50	Avg-Loss: 0.5416
+INFO:root:Epoch: 7	Train Loss: 0.3301270875930111	Train Acc: 0.8839841539332202	Test-Loss: 1.8434095820602105	Test-acc: 0.5153
+INFO:root:Epoch: 8	Batch: 50	Avg-Loss: 0.4463
+INFO:root:Epoch: 8	Train Loss: 0.2888282834471588	Train Acc: 0.8998302207130731	Test-Loss: 1.9321538428871	Test-acc: 0.5918
+INFO:root:Epoch: 9	Batch: 50	Avg-Loss: 0.3181
+INFO:root:Epoch: 9	Train Loss: 0.21576887168449807	Train Acc: 0.9292586304470855	Test-Loss: 1.910340663121671	Test-acc: 0.5765
+INFO:root:Epoch: 10	Batch: 50	Avg-Loss: 0.2822
+INFO:root:Epoch: 10	Train Loss: 0.2262884580151267	Train Acc: 0.9269949066213922	Test-Loss: 2.188136470561125	Test-acc: 0.5663
+INFO:root:Epoch: 11	Batch: 50	Avg-Loss: 0.2321
+INFO:root:Epoch: 11	Train Loss: 0.15726560904013534	Train Acc: 0.9564233163554047	Test-Loss: 2.038705981507593	Test-acc: 0.5714
+INFO:root:Epoch: 12	Batch: 50	Avg-Loss: 0.2422
+INFO:root:Epoch: 12	Train Loss: 0.11914987692606267	Train Acc: 0.9637804187889077	Test-Loss: 2.168810425972452	Test-acc: 0.6173
+INFO:root:Epoch: 13	Batch: 50	Avg-Loss: 0.1972
+INFO:root:Epoch: 13	Train Loss: 0.11594544836843358	Train Acc: 0.9598189020939445	Test-Loss: 1.970748672679979	Test-acc: 0.6173
+INFO:root:Epoch: 14	Batch: 50	Avg-Loss: 0.1624
+INFO:root:Epoch: 14	Train Loss: 0.06843747982853338	Train Acc: 0.9790605546123373	Test-Loss: 2.2513407468795776	Test-acc: 0.6020
+INFO:root:Epoch: 15	Batch: 50	Avg-Loss: 0.1387
+INFO:root:Epoch: 15	Train Loss: 0.07461339400698555	Train Acc: 0.9779286926994907	Test-Loss: 2.2390598520940665	Test-acc: 0.5918
+INFO:root:Epoch: 16	Batch: 50	Avg-Loss: 0.1208
+INFO:root:Epoch: 16	Train Loss: 0.059928176156126584	Train Acc: 0.9852857951329937	Test-Loss: 2.232649722877814	Test-acc: 0.5867
+INFO:root:Epoch: 17	Batch: 50	Avg-Loss: 0.0942
+INFO:root:Epoch: 17	Train Loss: 0.060228355739099126	Train Acc: 0.9762308998302207	Test-Loss: 2.442258971078055	Test-acc: 0.6327
+INFO:root:Epoch: 1	Batch: 50	Avg-Loss: 2.7207
+INFO:root:Epoch: 1	Train Loss: 1.8155471994570573	Train Acc: 0.2501414827391058	Test-Loss: 1.7539662633623396	Test-acc: 0.2449
+INFO:root:Epoch: 2	Batch: 50	Avg-Loss: 1.7589
+INFO:root:Epoch: 2	Train Loss: 1.6762861538958806	Train Acc: 0.32371250707413696	Test-Loss: 1.6753760454606037	Test-acc: 0.3622
+INFO:root:Epoch: 3	Batch: 50	Avg-Loss: 1.6671
+INFO:root:Epoch: 3	Train Loss: 1.5320388221713737	Train Acc: 0.42727787209960383	Test-Loss: 1.6539227281297957	Test-acc: 0.4031
+INFO:root:Epoch: 4	Batch: 50	Avg-Loss: 1.4503
+INFO:root:Epoch: 4	Train Loss: 1.1850063110990043	Train Acc: 0.5942275042444821	Test-Loss: 1.468977546205326	Test-acc: 0.4898
+INFO:root:Epoch: 5	Batch: 50	Avg-Loss: 1.0871
+INFO:root:Epoch: 5	Train Loss: 0.8503697168779832	Train Acc: 0.6525183927560838	Test-Loss: 1.6636184052545198	Test-acc: 0.4541
+INFO:root:Epoch: 6	Batch: 50	Avg-Loss: 0.9098
+INFO:root:Epoch: 6	Train Loss: 0.6364575609623813	Train Acc: 0.7923033389926429	Test-Loss: 1.382161058941666	Test-acc: 0.4898
+INFO:root:Epoch: 7	Batch: 50	Avg-Loss: 0.6923
+INFO:root:Epoch: 7	Train Loss: 0.5416215866736659	Train Acc: 0.8217317487266553	Test-Loss: 1.6274151218180755	Test-acc: 0.5612
+INFO:root:Epoch: 8	Batch: 50	Avg-Loss: 0.6391
+INFO:root:Epoch: 8	Train Loss: 0.4958367603069385	Train Acc: 0.8200339558573854	Test-Loss: 1.9614826708423847	Test-acc: 0.5153
+INFO:root:Epoch: 9	Batch: 50	Avg-Loss: 0.5520
+INFO:root:Epoch: 9	Train Loss: 0.35903097389779254	Train Acc: 0.8862478777589134	Test-Loss: 1.759834745708777	Test-acc: 0.5306
+INFO:root:Epoch: 10	Batch: 50	Avg-Loss: 0.4814
+INFO:root:Epoch: 10	Train Loss: 0.376893224204133	Train Acc: 0.88907753254103	Test-Loss: 1.858957558262105	Test-acc: 0.5255
+INFO:root:Epoch: 11	Batch: 50	Avg-Loss: 0.4683
+INFO:root:Epoch: 11	Train Loss: 0.2700484541424534	Train Acc: 0.9117147707979627	Test-Loss: 2.1127462679026077	Test-acc: 0.5357
+INFO:root:Epoch: 12	Batch: 50	Avg-Loss: 0.4359
+INFO:root:Epoch: 12	Train Loss: 0.24675882962623524	Train Acc: 0.923033389926429	Test-Loss: 2.538906934309979	Test-acc: 0.5408
+INFO:root:Epoch: 13	Batch: 50	Avg-Loss: 0.3687
+INFO:root:Epoch: 13	Train Loss: 0.2420020278355599	Train Acc: 0.9326542161856254	Test-Loss: 2.1586826869419644	Test-acc: 0.5663
+INFO:root:Epoch: 14	Batch: 50	Avg-Loss: 0.3565
+INFO:root:Epoch: 14	Train Loss: 0.20232263904003756	Train Acc: 0.9496321448783248	Test-Loss: 1.7095077816320925	Test-acc: 0.5357
+INFO:root:Epoch: 15	Batch: 50	Avg-Loss: 0.3238
+INFO:root:Epoch: 15	Train Loss: 0.1679321622099658	Train Acc: 0.9501980758347481	Test-Loss: 2.108149460383824	Test-acc: 0.5969
+INFO:root:Epoch: 16	Batch: 50	Avg-Loss: 0.3248
+INFO:root:Epoch: 16	Train Loss: 0.16531191185648048	Train Acc: 0.9530277306168647	Test-Loss: 2.3924441775497125	Test-acc: 0.5408
+INFO:root:Epoch: 17	Batch: 50	Avg-Loss: 0.2940
+INFO:root:Epoch: 17	Train Loss: 0.1429757584765528	Train Acc: 0.9598189020939445	Test-Loss: 2.5308318697676366	Test-acc: 0.5816
+INFO:root:Epoch: 18	Batch: 50	Avg-Loss: 0.3048
+INFO:root:Epoch: 18	Train Loss: 0.1496664693565374	Train Acc: 0.9558573853989814	Test-Loss: 2.258082696369716	Test-acc: 0.5204
+INFO:root:Epoch: 19	Batch: 50	Avg-Loss: 0.3021
+INFO:root:Epoch: 19	Train Loss: 0.15379166387519091	Train Acc: 0.9434069043576684	Test-Loss: 2.491970509898906	Test-acc: 0.6224
+INFO:root:Epoch: 20	Batch: 50	Avg-Loss: 0.2786
+INFO:root:Epoch: 20	Train Loss: 0.12316813021128756	Train Acc: 0.9654782116581777	Test-Loss: 2.2277308191571916	Test-acc: 0.5918
+INFO:root:Epoch: 21	Batch: 50	Avg-Loss: 0.2597
+INFO:root:Epoch: 21	Train Loss: 0.11854356053392295	Train Acc: 0.9711375212224108	Test-Loss: 2.158930525487783	Test-acc: 0.5663
+INFO:root:Epoch: 22	Batch: 50	Avg-Loss: 0.2585
+INFO:root:Epoch: 22	Train Loss: 0.13149683018508576	Train Acc: 0.9603848330503678	Test-Loss: 2.2463815942102547	Test-acc: 0.6122
+INFO:root:Epoch: 23	Batch: 50	Avg-Loss: 0.2561
+INFO:root:Epoch: 23	Train Loss: 0.1056373737453065	Train Acc: 0.9722693831352575	Test-Loss: 2.1010560551468207	Test-acc: 0.5510
+INFO:root:Epoch: 24	Batch: 50	Avg-Loss: 0.2340
+INFO:root:Epoch: 24	Train Loss: 0.10366835170670559	Train Acc: 0.9671760045274477	Test-Loss: 2.409684896469116	Test-acc: 0.6020
+INFO:root:Epoch: 25	Batch: 50	Avg-Loss: 0.1952
+INFO:root:Epoch: 25	Train Loss: 0.09758700802711423	Train Acc: 0.966044142614601	Test-Loss: 2.3321211581327477	Test-acc: 0.5714
+INFO:root:Epoch: 26	Batch: 50	Avg-Loss: 0.1947
+INFO:root:Epoch: 26	Train Loss: 0.08136173689750566	Train Acc: 0.9734012450481041	Test-Loss: 2.324549244374645	Test-acc: 0.6020
+INFO:root:Epoch: 27	Batch: 50	Avg-Loss: 0.1547
+INFO:root:Epoch: 27	Train Loss: 0.0949472375108687	Train Acc: 0.9671760045274477	Test-Loss: 2.3706028899367975	Test-acc: 0.6020
+INFO:root:Epoch: 28	Batch: 50	Avg-Loss: 0.2166
+INFO:root:Epoch: 28	Train Loss: 0.11442141542680262	Train Acc: 0.976796830786644	Test-Loss: 1.8551601633733632	Test-acc: 0.6173
+INFO:root:Epoch: 29	Batch: 50	Avg-Loss: 0.1916
+INFO:root:Epoch: 29	Train Loss: 0.08444558197830608	Train Acc: 0.9790605546123373	Test-Loss: 2.571310685605419	Test-acc: 0.6122
+INFO:root:Epoch: 30	Batch: 50	Avg-Loss: 0.1849
+INFO:root:Epoch: 30	Train Loss: 0.06041653883597594	Train Acc: 0.9841539332201471	Test-Loss: 2.4014186494204464	Test-acc: 0.6122
+INFO:root:Epoch: 31	Batch: 50	Avg-Loss: 0.2183
+INFO:root:Epoch: 31	Train Loss: 0.06773224008866773	Train Acc: 0.976796830786644	Test-Loss: 2.6393892570417754	Test-acc: 0.6122
+INFO:root:Epoch: 32	Batch: 50	Avg-Loss: 0.1888
+INFO:root:Epoch: 32	Train Loss: 0.0925947503963128	Train Acc: 0.9717034521788341	Test-Loss: 2.0102297432568608	Test-acc: 0.6276
+INFO:root:Epoch: 33	Batch: 50	Avg-Loss: 0.1804
+INFO:root:Epoch: 33	Train Loss: 0.05243851974328224	Train Acc: 0.9847198641765704	Test-Loss: 2.13835680728056	Test-acc: 0.5867
+INFO:root:Epoch: 34	Batch: 50	Avg-Loss: 0.1914
+INFO:root:Epoch: 34	Train Loss: 0.07226855301703514	Train Acc: 0.980192416525184	Test-Loss: 2.5280141003277836	Test-acc: 0.5867
+INFO:root:Epoch: 35	Batch: 50	Avg-Loss: 0.1394
+INFO:root:Epoch: 35	Train Loss: 0.0563846650466441	Train Acc: 0.987549518958687	Test-Loss: 2.3203429786526426	Test-acc: 0.6224
+INFO:root:Epoch: 36	Batch: 50	Avg-Loss: 0.1633
+INFO:root:Epoch: 36	Train Loss: 0.05470042634846555	Train Acc: 0.9852857951329937	Test-Loss: 2.605116756594911	Test-acc: 0.6122
+INFO:root:Epoch: 37	Batch: 50	Avg-Loss: 0.1653
+INFO:root:Epoch: 37	Train Loss: 0.04281981122412787	Train Acc: 0.9864176570458404	Test-Loss: 2.690900607984893	Test-acc: 0.6276
+INFO:root:Epoch: 38	Batch: 50	Avg-Loss: 0.1655
+INFO:root:Epoch: 38	Train Loss: 0.051883247931317614	Train Acc: 0.9841539332201471	Test-Loss: 2.2680246002820073	Test-acc: 0.6582
+INFO:root:Epoch: 39	Batch: 50	Avg-Loss: 0.1357
+INFO:root:Epoch: 39	Train Loss: 0.05953531293646471	Train Acc: 0.989247311827957	Test-Loss: 1.9121863939324204	Test-acc: 0.6071
+INFO:root:Epoch: 40	Batch: 50	Avg-Loss: 0.1383
+INFO:root:Epoch: 40	Train Loss: 0.05613855885191023	Train Acc: 0.9835880022637238	Test-Loss: 2.285120219600444	Test-acc: 0.5816
+INFO:root:Epoch: 41	Batch: 50	Avg-Loss: 0.1573
+INFO:root:Epoch: 41	Train Loss: 0.06779117306381312	Train Acc: 0.9796264855687606	Test-Loss: 2.364191464015416	Test-acc: 0.5714
+INFO:root:Epoch: 42	Batch: 50	Avg-Loss: 0.1398
+INFO:root:Epoch: 42	Train Loss: 0.04510470763709023	Train Acc: 0.9858517260894171	Test-Loss: 2.6317324936389923	Test-acc: 0.6429
+INFO:root:Epoch: 43	Batch: 50	Avg-Loss: 0.1258
+INFO:root:Epoch: 43	Train Loss: 0.05470738431357636	Train Acc: 0.9813242784380306	Test-Loss: 2.846866359516066	Test-acc: 0.5969
+INFO:root:Epoch: 44	Batch: 50	Avg-Loss: 0.1442
+INFO:root:Epoch: 44	Train Loss: 0.05968584748376087	Train Acc: 0.9824561403508771	Test-Loss: 2.580823915345328	Test-acc: 0.6173
+INFO:root:Epoch: 45	Batch: 50	Avg-Loss: 0.1046
+INFO:root:Epoch: 45	Train Loss: 0.038176678100205017	Train Acc: 0.989247311827957	Test-Loss: 2.35191696030753	Test-acc: 0.6531
+INFO:root:Epoch: 46	Batch: 50	Avg-Loss: 0.1206
+INFO:root:Epoch: 46	Train Loss: 0.05209756093161643	Train Acc: 0.9835880022637238	Test-Loss: 2.626965513034743	Test-acc: 0.6122
+INFO:root:Epoch: 47	Batch: 50	Avg-Loss: 0.1266
+INFO:root:Epoch: 47	Train Loss: 0.028585760893714448	Train Acc: 0.9926428975664969	Test-Loss: 2.6760018504395777	Test-acc: 0.6684
+INFO:root:Epoch: 48	Batch: 50	Avg-Loss: 0.1260
+INFO:root:Epoch: 48	Train Loss: 0.03729140495430271	Train Acc: 0.987549518958687	Test-Loss: 2.478656846649793	Test-acc: 0.6633
+INFO:root:Epoch: 49	Batch: 50	Avg-Loss: 0.1193
+INFO:root:Epoch: 49	Train Loss: 0.0314823293918243	Train Acc: 0.9932088285229203	Test-Loss: 2.3587738543140646	Test-acc: 0.6429
+INFO:root:Epoch: 50	Batch: 50	Avg-Loss: 0.1078
+INFO:root:Epoch: 50	Train Loss: 0.030612743298986153	Train Acc: 0.9915110356536503	Test-Loss: 2.619712055945883	Test-acc: 0.6582
+INFO:root:Epoch: 51	Batch: 50	Avg-Loss: 0.1259
+INFO:root:Epoch: 51	Train Loss: 0.04443675060200452	Train Acc: 0.9881154499151104	Test-Loss: 2.1893809912156086	Test-acc: 0.6173
+INFO:root:Epoch: 52	Batch: 50	Avg-Loss: 0.1249
+INFO:root:Epoch: 52	Train Loss: 0.04567560342738187	Train Acc: 0.9898132427843803	Test-Loss: 2.2386540271797957	Test-acc: 0.6378
+INFO:root:Epoch: 53	Batch: 50	Avg-Loss: 0.1113
+INFO:root:Epoch: 53	Train Loss: 0.03493088291538201	Train Acc: 0.989247311827957	Test-Loss: 3.246218759186414	Test-acc: 0.6378
+INFO:root:Epoch: 54	Batch: 50	Avg-Loss: 0.1677
+INFO:root:Epoch: 54	Train Loss: 0.04226567363867196	Train Acc: 0.9852857951329937	Test-Loss: 2.973912253671763	Test-acc: 0.6684
+INFO:root:Epoch: 55	Batch: 50	Avg-Loss: 0.1367
+INFO:root:Epoch: 55	Train Loss: 0.029178861311501013	Train Acc: 0.9920769666100736	Test-Loss: 2.5396366265355326	Test-acc: 0.6480
+INFO:root:Epoch: 56	Batch: 50	Avg-Loss: 0.1129
+INFO:root:Epoch: 56	Train Loss: 0.03657804199307775	Train Acc: 0.987549518958687	Test-Loss: 2.567145298938362	Test-acc: 0.6224
+INFO:root:Epoch: 57	Batch: 50	Avg-Loss: 0.1290
+INFO:root:Epoch: 57	Train Loss: 0.031213451798817637	Train Acc: 0.9886813808715337	Test-Loss: 2.6692678101208744	Test-acc: 0.6735
+INFO:root:Epoch: 58	Batch: 50	Avg-Loss: 0.1198
+INFO:root:Epoch: 58	Train Loss: 0.04343166672026429	Train Acc: 0.9852857951329937	Test-Loss: 3.0782793687314403	Test-acc: 0.5918
+INFO:root:Epoch: 59	Batch: 50	Avg-Loss: 0.1044
+INFO:root:Epoch: 59	Train Loss: 0.016863209416274977	Train Acc: 0.9966044142614601	Test-Loss: 2.520918286576563	Test-acc: 0.6378
+INFO:root:Epoch: 60	Batch: 50	Avg-Loss: 0.1262
+INFO:root:Epoch: 60	Train Loss: 0.023931004331527825	Train Acc: 0.9937747594793436	Test-Loss: 2.6013223589683068	Test-acc: 0.6224
+INFO:root:Epoch: 61	Batch: 50	Avg-Loss: 0.1087
+INFO:root:Epoch: 61	Train Loss: 0.022107493492864793	Train Acc: 0.9943406904357668	Test-Loss: 2.537779087923011	Test-acc: 0.6173
+INFO:root:Epoch: 62	Batch: 50	Avg-Loss: 0.1311
+INFO:root:Epoch: 62	Train Loss: 0.0312552585656031	Train Acc: 0.9920769666100736	Test-Loss: 2.7505412442343578	Test-acc: 0.6122
