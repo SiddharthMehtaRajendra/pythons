@@ -1,4 +1,4 @@
-11-785 (Introduction to Deep Learning) Course Project
+11-785 (Introduction to Deep Learning) Course Project - Facial Emotion Recognition Using Convolutional Neural Networks
 
 filescript.py : Script for extracting last few images of a sequence
 
