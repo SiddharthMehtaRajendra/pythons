@@ -1331,3 +1331,4 @@ INFO:root:Epoch: 1	Batch: 300	Avg-Loss: 1.8224
 INFO:root:Epoch: 1	Batch: 350	Avg-Loss: 1.8407
 INFO:root:Epoch: 1	Train Loss: 1.830443771423832	Train Acc: 0.2495755517826825	Test-Loss: 1.7617115731142006	Test-acc: 0.2857
 INFO:root:Epoch: 2	Batch: 50	Avg-Loss: 1.8369
+INFO:root:Epoch: 1	Batch: 50	Avg-Loss: 3.7700
